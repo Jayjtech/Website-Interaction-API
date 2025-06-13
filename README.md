@@ -34,7 +34,7 @@ It also includes a **custom email validation rule** to reject invalid or meaning
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Jayjtech/laravel-api.git
 
 # Navigate into the project directory
 cd your-repo-name
